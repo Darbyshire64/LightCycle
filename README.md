@@ -20,7 +20,7 @@ A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Ma
 | Bike State | Lighting State |
 |------------|----------------|
 | Stopped    | HL, BL, TL = 10%  |
-| Bike Accelerating | HL + TL = 50%  |
+| Accelerating | HL + TL = 50%  |
 | Rapid Deceleration | BL = 100% |
 
 
