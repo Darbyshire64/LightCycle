@@ -15,7 +15,7 @@ A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Ma
   - A Grid of 2x8 Neopixel LED's
   - 4 Pin JST Connector's Links to main board
 
-### Inteligent Lighting 
+### Inteligent Lighting States
 
 | Bike State | Lighting State |
 |------------|----------------|
