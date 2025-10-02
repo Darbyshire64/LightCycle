@@ -34,7 +34,12 @@ A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Ma
 <img width="310" height="110" alt="image" src="https://github.com/user-attachments/assets/a57a8841-e4e0-4129-b967-7c229de3d847" />
 <img width="317" height="113" alt="image" src="https://github.com/user-attachments/assets/dd7c75cd-8aa6-4283-85db-353d0aae74ee" />
 
-
+### Component Brainstorm 
+ -  6-Axis IMU = Bosch Sensortec BMI323
+ -  Lights = Adafruit Industries Neopixels 1655
+ -  Joystick = Sparkfun Electronics 09032
+ -  0.96inch OLED = Personal Electronics Draw
+ -  
 
 
 
