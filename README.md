@@ -1,5 +1,5 @@
 # LightCycle
-A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Made for @hackclub [REDACTED] YSWS
+A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Made for @hackclub Blueprint YSWS
 
 ## The Plan
 <img width="408" height="337" alt="image" src="https://github.com/user-attachments/assets/f917f33b-219c-4a63-8752-51f60726bbfa" />
