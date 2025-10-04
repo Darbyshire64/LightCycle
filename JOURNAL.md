@@ -17,3 +17,18 @@ Over the past couple of days ive been working on the readme and making a clear p
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTMwLCJwdXIiOiJibG9iX2lkIn19--5bd132cfd50d6d559f14bbbcb7481b5aa3471390/image.png)
   
 
+## 10/4/2025 - Light Board Schematic  
+
+I spent the morning Designing the Lightboard in KiCad. My biggest issue has been powering the board. I wanted to power the whole thing at full brightness off a 3.7v Using a boost covnerter. Bellow is the original Schematic for the power.
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzEzLCJwdXIiOiJibG9iX2lkIn19--386042f16abd20627f1a901ce36c7d77464e725f/image.png)
+
+
+
+After scouring the web. I cant find the model of boost convert i would like for sale in the format i would like it. so ive decided to just use the Raw Lipos 3.7v power. This dose however reduce the lumens from ≈250 to ≈150, However combined with some other external Factors this should be enough as the lights are for visibility not for illimunating the Road. The way the New Power Supply will work is that The Xiao and Newpixel's will share the LiPo's + Connector. This is the New Power Schematic. 
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MzE0LCJwdXIiOiJibG9iX2lkIn19--a9858ed9a08197357d6c60a04f9010a83467c966/image.png)
+
+
+  
+
