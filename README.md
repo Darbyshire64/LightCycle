@@ -39,9 +39,11 @@ A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Ma
  -  Lights = Adafruit Industries Neopixels 1655
  -  Joystick = Sparkfun Electronics 09032
  -  0.96inch OLED = Personal Electronics Draw
- -  
 
 
 
 
 
+
+
+<img width="2000" height="1020" alt="Badge" src="https://github.com/user-attachments/assets/6dd5f2bd-8309-466f-af9c-b98fabe8da96" />
