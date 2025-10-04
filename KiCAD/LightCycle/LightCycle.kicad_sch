@@ -1,0 +1,90 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "cead7f17-a2c8-45ff-a754-ee2f898ab218")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 19.05 93.98)
+		(size 257.81 57.15)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "86349690-045f-4b37-b4a3-39d46651d0ab")
+		(property "Sheetname" "Contol Board"
+			(at 19.05 93.2684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 19.05 151.7146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightCycle"
+				(path "/cead7f17-a2c8-45ff-a754-ee2f898ab218"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 19.05 16.51)
+		(size 261.62 69.85)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "df19a46b-e85c-40b6-b193-7e0797bcb8de")
+		(property "Sheetname" "Lightboard"
+			(at 19.05 15.7984 0)
+			(show_name yes)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "untitled.kicad_sch"
+			(at 19.05 86.9446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "LightCycle"
+				(path "/cead7f17-a2c8-45ff-a754-ee2f898ab218"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
