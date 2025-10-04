@@ -1,5 +1,5 @@
 # LightCycle
-A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Made for @hackclub [REDACTED] YSWS
+A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Made for @hackclub Blueprint YSWS
 
 ## The Plan
 <img width="408" height="337" alt="image" src="https://github.com/user-attachments/assets/f917f33b-219c-4a63-8752-51f60726bbfa" />
@@ -39,9 +39,11 @@ A Custom Set of Bike Lights with indicators made for my Bike Using NeoPixels. Ma
  -  Lights = Adafruit Industries Neopixels 1655
  -  Joystick = Sparkfun Electronics 09032
  -  0.96inch OLED = Personal Electronics Draw
- -  
 
 
 
 
 
+
+
+<img width="2000" height="1020" alt="Badge" src="https://github.com/user-attachments/assets/6dd5f2bd-8309-466f-af9c-b98fabe8da96" />
